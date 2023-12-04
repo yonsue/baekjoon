@@ -1,3 +1,5 @@
+package 입출력과_사칙연산;
+
 import java.util.Scanner;
 public class backjun2588 {
     public static void main(String[]args){
