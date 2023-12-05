@@ -1,4 +1,4 @@
-package 조건문;
+package conditional;
 import java.util.Scanner;
 public class baekjoon9498 {
     public static void main(String[]args){

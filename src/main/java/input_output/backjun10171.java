@@ -1,4 +1,4 @@
-package 입출력과_사칙연산;
+package input_output;
 
 // 고양이 출력하기
 // \    /\
