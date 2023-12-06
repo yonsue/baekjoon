@@ -6,9 +6,10 @@ public class whileExam {
         int sum=0;
         while(i<=10){
             sum += i;
-            i++;
             System.out.println("i의 값은 : "+i);
             System.out.println("sum + i의 값은 : "+sum);
+            i++;
+
         }
     }
 }
